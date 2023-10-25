@@ -21,3 +21,5 @@
 14. В качестве ответа добавьте ссылку на этот коммит в ваш md-файл с решением.
 
 ### Решение 1
+
+![скриншот1](https://github.com/svpuzin/HomeWorkNetology/blob/main/Automation%20and%20CI%5CCD/Git/img/Снимок%20экрана%202023-10-25%20в%2014.42.42.png)
