@@ -22,4 +22,6 @@
 
 ### Решение 1
 
+Зарегистрируйте аккаунт на GitHub.
+Создайте новый отдельный публичный репозиторий. Обязательно поставьте галочку в поле «Initialize this repository with a README».
 ![скриншот1](https://github.com/svpuzin/HomeWorkNetology/blob/main/Automation%20and%20CI%5CCD/Git/img/Снимок%20экрана%202023-10-25%20в%2014.42.42.png)
