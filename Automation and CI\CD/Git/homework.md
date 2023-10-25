@@ -24,6 +24,21 @@
 
 Зарегистрируйте аккаунт на GitHub.
 Создайте новый отдельный публичный репозиторий. Обязательно поставьте галочку в поле «Initialize this repository with a README».
+
 ![скриншот1](https://github.com/svpuzin/HomeWorkNetology/blob/main/Automation%20and%20CI%5CCD/Git/img/Снимок%20экрана%202023-10-25%20в%2014.42.42.png)
+
 Склонируйте репозиторий, используя https протокол git clone
+
 ![скриншот2](https://github.com/svpuzin/HomeWorkNetology/blob/main/Automation%20and%20CI%5CCD/Git/img/Снимок%20экрана%202023-10-25%20в%2014.44.00.png)
+
+Перейдите в каталог с клоном репозитория
+
+![скриншот3](https://github.com/svpuzin/HomeWorkNetology/blob/main/Automation%20and%20CI%5CCD/Git/img/Снимок%20экрана%202023-10-25%20в%2015.06.18.png)
+
+Произведите первоначальную настройку Git, указав своё настоящее имя и email: git config --global user.name и git config --global user.email johndoe@example.com.
+
+![скриншот4](https://github.com/svpuzin/HomeWorkNetology/blob/main/Automation%20and%20CI%5CCD/Git/img/Снимок%20экрана%202023-10-25%20в%2015.06.41.png)
+
+Выполните команду git status и запомните результат
+
+![скриншот5](https://github.com/svpuzin/HomeWorkNetology/blob/main/Automation%20and%20CI%5CCD/Git/img/Снимок%20экрана%202023-10-25%20в%2015.07.28.png)
