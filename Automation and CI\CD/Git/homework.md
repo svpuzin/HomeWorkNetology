@@ -42,3 +42,35 @@
 Выполните команду git status и запомните результат
 
 ![скриншот5](https://github.com/svpuzin/HomeWorkNetology/blob/main/Automation%20and%20CI%5CCD/Git/img/Снимок%20экрана%202023-10-25%20в%2015.07.28.png)
+
+Отредактируйте файл README.md любым удобным способом, переведя файл в состояние Modified
+
+![скриншот6](https://github.com/svpuzin/HomeWorkNetology/blob/main/Automation%20and%20CI%5CCD/Git/img/Снимок%20экрана%202023-10-25%20в%2015.09.10.png)
+
+Ещё раз выполните git status и продолжайте проверять вывод этой команды после каждого следующего шага.
+
+![скриншот7](https://github.com/svpuzin/HomeWorkNetology/blob/main/Automation%20and%20CI%5CCD/Git/img/Снимок%20экрана%202023-10-25%20в%2015.09.58.png)
+
+Посмотрите изменения в файле README.md, выполнив команды git diff и git diff --staged.
+
+![скриншот8](https://github.com/svpuzin/HomeWorkNetology/blob/main/Automation%20and%20CI%5CCD/Git/img/Снимок%20экрана%202023-10-25%20в%2015.10.39.png)
+
+![скриншот9](https://github.com/svpuzin/HomeWorkNetology/blob/main/Automation%20and%20CI%5CCD/Git/img/Снимок%20экрана%202023-10-25%20в%2015.13.00.png)
+
+Ещё раз выполните команды git diff и git diff --staged
+
+![скриншот10](https://github.com/svpuzin/HomeWorkNetology/blob/main/Automation%20and%20CI%5CCD/Git/img/Снимок%20экрана%202023-10-25%20в%2015.14.08.png)
+
+Теперь можно сделать коммит git commit -m 'First commit'
+
+![скриншот11](https://github.com/svpuzin/HomeWorkNetology/blob/main/Automation%20and%20CI%5CCD/Git/img/Снимок%20экрана%202023-10-25%20в%2015.15.43.png)
+
+Сделайте git push origin master.
+
+![скриншот12](https://github.com/svpuzin/HomeWorkNetology/blob/main/Automation%20and%20CI%5CCD/Git/img/Снимок%20экрана%202023-10-25%20в%2015.37.25.png)
+
+В качестве ответа добавьте ссылку на этот коммит в ваш md-файл с решением.
+
+https://github.com/svpuzin/git_test1/commit/103a0cdd69ed62256760620311eb4ab49b39fa2a
+
+
