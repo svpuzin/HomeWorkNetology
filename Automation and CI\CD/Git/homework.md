@@ -139,4 +139,8 @@ https://github.com/svpuzin/git_test1/commit/09c2d052ef9d4823b4454201c6f3bfda7402
 
 ![скриншот16](https://github.com/svpuzin/HomeWorkNetology/blob/main/Automation%20and%20CI%5CCD/Git/img/Снимок%20экрана%202023-10-27%20в%2023.01.34.png)
 
+Создайте в ветке dev файл test.sh с произвольным содержимым.
+Сделайте несколько коммитов и пушей  в ветку dev, имитируя активную работу над  файлом в процессе разработки
+
+![](https://github.com/svpuzin/HomeWorkNetology/blob/main/Automation%20and%20CI%5CCD/Git/img/Снимок%20экрана%202023-10-28%20в%2013.38.30.png)
 
