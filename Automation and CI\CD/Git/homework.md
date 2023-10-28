@@ -142,5 +142,22 @@ https://github.com/svpuzin/git_test1/commit/09c2d052ef9d4823b4454201c6f3bfda7402
 Создайте в ветке dev файл test.sh с произвольным содержимым.
 Сделайте несколько коммитов и пушей  в ветку dev, имитируя активную работу над  файлом в процессе разработки
 
-![](https://github.com/svpuzin/HomeWorkNetology/blob/main/Automation%20and%20CI%5CCD/Git/img/Снимок%20экрана%202023-10-28%20в%2013.38.30.png)
+![скриншот17](https://github.com/svpuzin/HomeWorkNetology/blob/main/Automation%20and%20CI%5CCD/Git/img/Снимок%20экрана%202023-10-28%20в%2013.38.30.png)
+
+Переключитесь на основную ветку
+
+![скриншот18](https://github.com/svpuzin/HomeWorkNetology/blob/main/Automation%20and%20CI%5CCD/Git/img/Снимок%20экрана%202023-10-28%20в%2013.44.58.png)
+
+Добавьте файл main.sh в основной ветке с произвольным содержимым, сделайте комит и пуш . Так имитируется продолжение общекомандной разработки в основной ветке во время разработки отдельного функционала в dev  ветке
+
+![скриншот19](https://github.com/svpuzin/HomeWorkNetology/blob/main/Automation%20and%20CI%5CCD/Git/img/Снимок%20экрана%202023-10-28%20в%2013.48.15.png)
+
+Сделайте мердж dev  ветки в основную с помощью git merge dev. Напишите осмысленное сообщение в появившееся окно комита.
+Сделайте пуш в основной ветке.
+Не удаляйте ветку dev.
+
+![скриншот20](https://github.com/svpuzin/HomeWorkNetology/blob/main/Automation%20and%20CI%5CCD/Git/img/Снимок%20экрана%202023-10-28%20в%2015.31.57.png)
+
+
+https://github.com/svpuzin/git_test1/network
 
