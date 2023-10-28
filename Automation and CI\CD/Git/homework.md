@@ -137,4 +137,6 @@ https://github.com/svpuzin/git_test1/commit/09c2d052ef9d4823b4454201c6f3bfda7402
 
 Создайте новую ветку dev и переключитесь на неё
 
-![скриншот16]()
+![скриншот16](https://github.com/svpuzin/HomeWorkNetology/blob/main/Automation%20and%20CI%5CCD/Git/img/Снимок%20экрана%202023-10-27%20в%2023.01.34.png)
+
+
