@@ -15,6 +15,23 @@
 
 ### Решение 1
 
+Установите PostgreSQL. Для установки достаточна та версия, что есть в системном репозитороии Debian 11
+
+![скрин1](https://github.com/svpuzin/HomeWorkNetology/blob/main/Monitoring/Zabbix/img/1.png)
+
+```
+    apt install postgresql
+    wget https://repo.zabbix.com/zabbix/6.0/ubuntu/pool/main/z/zabbix-release/zabbix-release_6.0-4+ubuntu22.04_all.deb
+    dpkg -i zabbix-release_6.0-4+ubuntu22.04_all.deb
+    apt update
+    apt install zabbix-server-pgsql zabbix-frontend-php php8.1-pgsql zabbix-apache-conf zabbix-sql-scripts zabbix-agent
+    sudo -u postgres createuser --pwprompt zabbix
+    sudo -u postgres createdb -O zabbix zabbix
+    zcat /usr/share/zabbix-sql-scripts/postgresql/server.sql.gz | sudo -u zabbix psql zabbix
+    systemctl restart zabbix-server zabbix-agent apache2
+    systemctl enable zabbix-server zabbix-agent apache2
+   ```
+![скрин2](https://github.com/svpuzin/HomeWorkNetology/blob/main/Monitoring/Zabbix/img/2.png)
 
 ---
 
@@ -38,3 +55,17 @@
 
 ### Решение 2
 
+```
+wget https://repo.zabbix.com/zabbix/6.0/ubuntu/pool/main/z/zabbix-release/zabbix-release_6.0-4+ubuntu22.04_all.deb
+dpkg -i zabbix-release_6.0-4+ubuntu22.04_all.deb
+apt update
+apt install zabbix-agent
+systemctl restart zabbix-agent
+systemctl enable zabbix-agent
+```
+
+![скрин3](https://github.com/svpuzin/HomeWorkNetology/blob/main/Monitoring/Zabbix/img/3.png)
+
+![скрин4](https://github.com/svpuzin/HomeWorkNetology/blob/main/Monitoring/Zabbix/img/4.png)
+
+![скрин5](https://github.com/svpuzin/HomeWorkNetology/blob/main/Monitoring/Zabbix/img/5.png)
