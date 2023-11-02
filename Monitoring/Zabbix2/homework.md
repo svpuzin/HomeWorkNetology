@@ -9,6 +9,15 @@
 
 ### Решение 1
 
+В веб-интерфейсе Zabbix Servera в разделе Templates создайте новый шаблон
+
+![скрин1](https://github.com/svpuzin/HomeWorkNetology/blob/main/Monitoring/Zabbix2/img/1.png)
+
+Создайте Item который будет собирать информацию об загрузке CPU в процентах
+Создайте Item который будет собирать информацию об загрузке RAM в процентах
+
+![скрин2](https://github.com/svpuzin/HomeWorkNetology/blob/main/Monitoring/Zabbix2/img/2.png)
+
  ---
 
 ### Задание 2
@@ -23,6 +32,10 @@
 6. Проверьте что в разделе Latest Data начали появляться данные с добавленных агентов
 
 ### Решение 2
+
+![скрин3](https://github.com/svpuzin/HomeWorkNetology/blob/main/Monitoring/Zabbix2/img/3.png)
+![скрин4](https://github.com/svpuzin/HomeWorkNetology/blob/main/Monitoring/Zabbix2/img/4.png)
+
  ---
 
 ### Задание 3
@@ -36,6 +49,9 @@
 
 ### Решение 3
 
+![скрин5](https://github.com/svpuzin/HomeWorkNetology/blob/main/Monitoring/Zabbix2/img/5.png)
+![скрин6](https://github.com/svpuzin/HomeWorkNetology/blob/main/Monitoring/Zabbix2/img/6.png)
+
  ---
 
 ### Задание 4
@@ -48,3 +64,4 @@
 
 ### Решение 4
 
+![скрин7](https://github.com/svpuzin/HomeWorkNetology/blob/main/Monitoring/Zabbix2/img/7.png)
