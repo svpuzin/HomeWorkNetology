@@ -5,7 +5,7 @@
 
 
 ### Задание 1
-- Дана [схема](1/hsrp_advanced.pkt) для Cisco Packet Tracer, рассматриваемая в лекции.
+- Дана [схема]([1/hsrp_advanced.pkt](https://github.com/svpuzin/HomeWorkNetology/blob/main/Fault%20Tolerance/Disaster%20Recovery.%20FHRP%20и%20Keepalived/files/hsrp_advanced.pkt)) для Cisco Packet Tracer, рассматриваемая в лекции.
 - На данной схеме уже настроено отслеживание интерфейсов маршрутизаторов Gi0/1 (для нулевой группы)
 - Необходимо аналогично настроить отслеживание состояния интерфейсов Gi0/0 (для первой группы).
 - Для проверки корректности настройки, разорвите один из кабелей между одним из маршрутизаторов и Switch0 и запустите ping между PC0 и Server0.
