@@ -27,4 +27,8 @@
 
 ### Решение 2
 
+![screenshot3](https://github.com/svpuzin/HomeWorkNetology/blob/main/Fault%20Tolerance/Backup/img/Снимок%20экрана%202024-01-28%20в%2023.29.38.png)
+
+![screenshot4](https://github.com/svpuzin/HomeWorkNetology/blob/main/Fault%20Tolerance/Backup/img/Снимок%20экрана%202024-01-28%20в%2023.34.29.png)
+
 ---
