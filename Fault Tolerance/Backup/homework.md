@@ -12,6 +12,10 @@
 
 ### Решение 1
 
+![screenshot1](https://github.com/svpuzin/HomeWorkNetology/blob/main/Fault%20Tolerance/Backup/img/Снимок%20экрана%202024-01-28%20в%2019.41.06.png)
+
+![screenshot2](https://github.com/svpuzin/HomeWorkNetology/blob/main/Fault%20Tolerance/Backup/img/Снимок%20экрана%202024-01-28%20в%2019.42.51.png)
+
 ---
 
 ### Задание 2
