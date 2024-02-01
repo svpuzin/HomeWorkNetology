@@ -26,6 +26,7 @@
 ### Решение 2
 [Конфигурационный файл haproxy](https://github.com/svpuzin/HomeWorkNetology/blob/main/Fault%20Tolerance/Clustering%20and%20Load%20Balancing/files/haproxy-2.cfg)
 
+![screen2](https://github.com/svpuzin/HomeWorkNetology/blob/main/Fault%20Tolerance/Clustering%20and%20Load%20Balancing/img/Снимок%20экрана%202024-02-01%20в%2021.04.46.png)
 
 ---
 
