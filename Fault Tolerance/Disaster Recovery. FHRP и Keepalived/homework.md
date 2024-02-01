@@ -29,4 +29,17 @@
 
 ### Решение 2
 
+Скрипт для проверки
+![screen1](https://github.com/svpuzin/HomeWorkNetology/blob/main/Fault%20Tolerance/Disaster%20Recovery.%20FHRP%20и%20Keepalived/img/Снимок%20экрана%202024-02-01%20в%2017.19.07.png)
+
+Конфигурационнае файлы
+![screen2](https://github.com/svpuzin/HomeWorkNetology/blob/main/Fault%20Tolerance/Disaster%20Recovery.%20FHRP%20и%20Keepalived/img/Снимок%20экрана%202024-02-01%20в%2017.20.41.png)
+
+До
+![screen3](https://github.com/svpuzin/HomeWorkNetology/blob/main/Fault%20Tolerance/Disaster%20Recovery.%20FHRP%20и%20Keepalived/img/Снимок%20экрана%202024-02-01%20в%2017.21.55.png)
+
+После переименовывания файла 
+![screen4](https://github.com/svpuzin/HomeWorkNetology/blob/main/Fault%20Tolerance/Disaster%20Recovery.%20FHRP%20и%20Keepalived/img/Снимок%20экрана%202024-02-01%20в%2017.22.39.png)
+
+
 ------
