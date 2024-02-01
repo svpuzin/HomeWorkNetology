@@ -12,6 +12,7 @@
 - На проверку направьте конфигурационный файл haproxy, скриншоты, где видно перенаправление запросов на разные серверы при обращении к HAProxy.
 
 ### Решение 1
+[Конфигурационный файл haproxy](https://github.com/svpuzin/HomeWorkNetology/blob/main/Fault%20Tolerance/Clustering%20and%20Load%20Balancing/files/haproxy.cfg)
 
 ---
 
