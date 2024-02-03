@@ -31,5 +31,20 @@
 
   -----
 
+## Администрирование Linux
 
+  (0/5) [Типы дистрибутивов Linux](https://github.com/svpuzin/HomeWorkNetology/blob/main/Администрирование%20Linux/Типы%20дистрибутивов%20Linux/homework.md)
+
+  (0/8) [Управление пакетами](https://github.com/svpuzin/HomeWorkNetology/blob/main/Администрирование%20Linux/Управление%20пакетами/homework.md)
+
+  (0/5) [Инициализация системы, Init, systemd](https://github.com/svpuzin/HomeWorkNetology/blob/main/Администрирование%20Linux/Инициализация%20системы%2C%20Init%2C%20systemd/homework.md)
+
+  (0/6) [Управление пользователями](https://github.com/svpuzin/HomeWorkNetology/blob/main/Администрирование%20Linux/Управление%20пользователями/homework.md)
+
+  (0/5) [Производительность системы. Часть 1](https://github.com/svpuzin/HomeWorkNetology/blob/main/Администрирование%20Linux/Производительность%20системы.%20Часть%201/homework.md)
+
+  (0/5) [Производительность системы. Часть 2](https://github.com/svpuzin/HomeWorkNetology/blob/main/Администрирование%20Linux/Производительность%20системы.%20Часть%202/homework.md)
+
+  -----
+  
   
