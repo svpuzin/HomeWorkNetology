@@ -56,3 +56,33 @@
   (0/2) [Разбор скриптов и и их написание](https://github.com/svpuzin/HomeWorkNetology/blob/main/Программирование%20на%20Bash/Разбор%20скриптов%20и%20и%20их%20написание/homework.md)
 
   -----
+
+## Сеть и сетевые протоколы
+
+  (0/2) [Теоретические основы сети. Модель OSI и TCP/IP](https://github.com/svpuzin/HomeWorkNetology/blob/main/Сеть%20и%20сетевые%20протоколы/Теоретические%20основы%20сети/homework.md)
+
+  (0/2) [L2-сеть](https://github.com/svpuzin/HomeWorkNetology/blob/main/Сеть%20и%20сетевые%20протоколы/L2-сеть/homework.md)
+
+  (0/3) [L3-сеть](https://github.com/svpuzin/HomeWorkNetology/blob/main/Сеть%20и%20сетевые%20протоколы/L3-сеть/homework.md)
+
+  (0/2) [L4-сеть](https://github.com/svpuzin/HomeWorkNetology/blob/main/Сеть%20и%20сетевые%20протоколы/L4-сеть/homework.md)
+
+  (0/2) [Firewall](https://github.com/svpuzin/HomeWorkNetology/blob/main/Сеть%20и%20сетевые%20протоколы/Firewall/homework.md)
+
+  (0/2) [NAT](https://github.com/svpuzin/HomeWorkNetology/blob/main/Сеть%20и%20сетевые%20протоколы/NAT/homework.md)
+
+  (0/1) [VPN](https://github.com/svpuzin/HomeWorkNetology/blob/main/Сеть%20и%20сетевые%20протоколы/VPN/homework.md)
+
+  (0/1) [Высокоуровневые сетевые протоколы](https://github.com/svpuzin/HomeWorkNetology/blob/main/Сеть%20и%20сетевые%20протоколы/Высокоуровневые%20сетевые%20протоколы/homework.md)
+
+  (0/4) [Troubleshooting](https://github.com/svpuzin/HomeWorkNetology/blob/main/Сеть%20и%20сетевые%20протоколы/Troubleshooting/homework.md)
+
+  (0/2) [DHCP, PXE](https://github.com/svpuzin/HomeWorkNetology/blob/main/Сеть%20и%20сетевые%20протоколы/DHCP%2C%20PXE/homework.md)
+
+  (0/2) [DNS](https://github.com/svpuzin/HomeWorkNetology/blob/main/Сеть%20и%20сетевые%20протоколы/DNS/homework.md)
+
+  (0/2) [HTTP/HTTPS](https://github.com/svpuzin/HomeWorkNetology/blob/main/Сеть%20и%20сетевые%20протоколы/HTTP%20HTTPS/homework.md)
+
+  (0/3) [IPv6](https://github.com/svpuzin/HomeWorkNetology/blob/main/Сеть%20и%20сетевые%20протоколы/IPv6/homework.md)
+
+  -----
