@@ -47,4 +47,12 @@
 
   -----
   
-  
+## Программирование на Bash
+
+  (0/4) [Regexp и его использование для синтаксического анализа](https://github.com/svpuzin/HomeWorkNetology/blob/main/Программирование%20на%20Bash/Regexp%20и%20его%20использование%20для%20синтаксического%20анализа/homework.md)
+
+  (0/4) [Работа с текстовыми утилитами](https://github.com/svpuzin/HomeWorkNetology/blob/main/Программирование%20на%20Bash/Работа%20с%20текстовыми%20утилитами/homework.md)
+
+  (0/2) [Разбор скриптов и и их написание](https://github.com/svpuzin/HomeWorkNetology/blob/main/Программирование%20на%20Bash/Разбор%20скриптов%20и%20и%20их%20написание/homework.md)
+
+  -----
