@@ -86,3 +86,19 @@
   (0/3) [IPv6](https://github.com/svpuzin/HomeWorkNetology/blob/main/Сеть%20и%20сетевые%20протоколы/IPv6/homework.md)
 
   -----
+
+## Виртуализвция
+
+  (0/5) [Виртуализация и облачные решения: AWS, GCP, Yandex Cloud, OpenStack](https://github.com/svpuzin/HomeWorkNetology/blob/main/Виртуализация/Виртуализация%20и%20облачные%20решения.%20AWS%2C%20GCP%2C%20Яндекс.Облако%2C%20Openstack/homemade.md)
+
+  (0/9) [Типы виртуализации: KVM, QEMU](https://github.com/svpuzin/HomeWorkNetology/blob/main/Виртуализация/Типы%20виртуализаций%20KVM,%20QEMU/homemade.md)
+
+  (0/3) [Docker. Часть 1](https://github.com/svpuzin/HomeWorkNetology/blob/main/Виртуализация/Docker/homework.md)
+
+  (0/15) [Docker. Часть 2](https://github.com/svpuzin/HomeWorkNetology/blob/main/Виртуализация/Docker.%20Часть%202/homework.md)
+
+  (0/4) [Kubernetes. Часть 1](https://github.com/svpuzin/HomeWorkNetology/blob/main/Виртуализация/Kubernetes/homework.md)
+
+  (0/3) [Kubernetes. Часть 2](https://github.com/svpuzin/HomeWorkNetology/blob/main/Виртуализация/Kubernetes.%20Часть%202/homework.md)
+
+  -----
