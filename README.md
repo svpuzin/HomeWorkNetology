@@ -15,19 +15,19 @@
 
 ## Операционная система Linux
 
-  [Процессы, управление процессами](https://github.com/svpuzin/HomeWorkNetology/blob/main/Операционная%20система%20Linux/Процессы%2C%20управление%20процессами/homework.md)
+  (0/3) [Процессы, управление процессами](https://github.com/svpuzin/HomeWorkNetology/blob/main/Операционная%20система%20Linux/Процессы%2C%20управление%20процессами/homework.md)
 
-  [Память, управление памятью](https://github.com/svpuzin/HomeWorkNetology/blob/main/Операционная%20система%20Linux/Память%2C%20управление%20памятью/homework.md)
+  (0/5) [Память, управление памятью](https://github.com/svpuzin/HomeWorkNetology/blob/main/Операционная%20система%20Linux/Память%2C%20управление%20памятью/homework.md)
 
-  [Шедулер](https://github.com/svpuzin/HomeWorkNetology/blob/main/Операционная%20система%20Linux/Шедулер/homework.md)
+  (0/7) [Шедулер](https://github.com/svpuzin/HomeWorkNetology/blob/main/Операционная%20система%20Linux/Шедулер/homework.md)
 
-  [Дисковые системы](https://github.com/svpuzin/HomeWorkNetology/blob/main/Операционная%20система%20Linux/Дисковые%20системы/homework.md)
+  (0/6) [Дисковые системы](https://github.com/svpuzin/HomeWorkNetology/blob/main/Операционная%20система%20Linux/Дисковые%20системы/homework.md)
 
-  [Файловые системы](https://github.com/svpuzin/HomeWorkNetology/blob/main/Операционная%20система%20Linux/Файловые%20системы/homework.md)
+  (0/5) [Файловые системы](https://github.com/svpuzin/HomeWorkNetology/blob/main/Операционная%20система%20Linux/Файловые%20системы/homework.md)
 
-  [Ядро операционной системы](https://github.com/svpuzin/HomeWorkNetology/blob/main/Операционная%20система%20Linux/Ядро%20операционной%20системы/homework.md)
+  (0/4) [Ядро операционной системы](https://github.com/svpuzin/HomeWorkNetology/blob/main/Операционная%20система%20Linux/Ядро%20операционной%20системы/homework.md)
 
-  [Загрузка операционной системы](https://github.com/svpuzin/HomeWorkNetology/blob/main/Операционная%20система%20Linux/Загрузка%20операционной%20системы/homework.md)
+  (0/3) [Загрузка операционной системы](https://github.com/svpuzin/HomeWorkNetology/blob/main/Операционная%20система%20Linux/Загрузка%20операционной%20системы/homework.md)
 
   -----
 
