@@ -102,3 +102,23 @@
   (0/3) [Kubernetes. Часть 2](https://github.com/svpuzin/HomeWorkNetology/blob/main/Виртуализация/Kubernetes.%20Часть%202/homework.md)
 
   -----
+
+## Автоматизация и CI-СD
+
+  (0/4) [Ansible. Часть 1](https://github.com/svpuzin/HomeWorkNetology/blob/main/Автоматизация%20и%20CI-СD/Ansible.%20Часть%201/homework.md)
+
+  (0/3) [Ansible.Часть 2](https://github.com/svpuzin/HomeWorkNetology/blob/main/Автоматизация%20и%20CI-СD/Ansible.Часть%202/homework.md)
+
+  (0/5) [Terraform](https://github.com/svpuzin/HomeWorkNetology/blob/main/Автоматизация%20и%20CI-СD/Terraform/homework.md)
+
+  (0/3) [Подъём инфраструктуры в Yandex Cloud](https://github.com/svpuzin/HomeWorkNetology/blob/main/Автоматизация%20и%20CI-СD/Подъём%20инфраструктуры%20в%20Yandex%20Cloud/homework.md)
+
+  (0/4) [Git](https://github.com/svpuzin/HomeWorkNetology/blob/main/Автоматизация%20и%20CI-СD/Git/homework.md)
+
+  (0/4) [Что такое DevOps. СI/СD](https://github.com/svpuzin/HomeWorkNetology/blob/main/Автоматизация%20и%20CI-СD/Что%20такое%20DevOps.%20СI-СD/homework.md)
+
+  (0/3) [GitLab](https://github.com/svpuzin/HomeWorkNetology/blob/main/Автоматизация%20и%20CI-СD/GitLab/homework.md)
+
+  -----
+
+
