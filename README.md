@@ -179,5 +179,15 @@
 
   -----
 
+## Информационная безопасность
+
+  (0/2) [Уязвимости и атаки на информационные системы](https://github.com/svpuzin/HomeWorkNetology/blob/main/Информационная%20безопасность/Уязвимости%20и%20атаки%20на%20информационные%20системы/homework.md)
+
+  (0/3) [Защита хоста](https://github.com/svpuzin/HomeWorkNetology/blob/main/Информационная%20безопасность/Защита%20хоста/homework.md)
+
+  (0/2) [Защита сети](https://github.com/svpuzin/HomeWorkNetology/blob/main/Информационная%20безопасность/Защита%20сети/homework.md)
+
+  -----
+
 
 
