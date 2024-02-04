@@ -10,6 +10,7 @@
 4. [Configuring IP Networking with GNOME GUI](https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/7/html/networking_guide/sec-configuring_ip_networking_with_gnome_gui)
 5. [How to Configure Network Settings in Ubuntu](https://vitux.com/ubuntu-network-configuration/)
 
+---
 
 ### Задание 1. Процессы
 
@@ -22,6 +23,7 @@
 
 *Ответ приведите в виде последовательности команд и снимка экрана*
 
+---
 
 ### Задание 2. Утилита htop
 
@@ -32,6 +34,7 @@
 
 *Приведите ответ в виде снимков экрана*
 
+---
 
 ### Задание 3. Работа с сетью
 
@@ -43,6 +46,7 @@
 
 *Приведите ответ в виде снимка экрана с выполненной командой ip addr*
 
+---
 
 
 ### Критерии оценки
