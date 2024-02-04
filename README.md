@@ -159,6 +159,25 @@
 
   -----
 
+## Реляционные базы данных и администрирование баз данных
+
+  (0/2) [Базы данных](https://github.com/svpuzin/HomeWorkNetology/blob/main/Реляционные%20базы%20данных%20и%20администрирование%20баз%20данных/Базы%20данных/homework.md)
+
+  (0/3) [Работа с данными (DDL/DML)](https://github.com/svpuzin/HomeWorkNetology/blob/main/Реляционные%20базы%20данных%20и%20администрирование%20баз%20данных/Работа%20с%20данными%20(DDL-DML)/homework.md)
+
+  (0/6) [SQL. Часть 1](https://github.com/svpuzin/HomeWorkNetology/blob/main/Реляционные%20базы%20данных%20и%20администрирование%20баз%20данных/SQL.%20Часть%201/homework.md)
+
+  (0/5) [SQL. Часть 2](https://github.com/svpuzin/HomeWorkNetology/blob/main/Реляционные%20базы%20данных%20и%20администрирование%20баз%20данных/SQL.%20Часть%202/homework.md)
+
+  (0/3) [Индексы](https://github.com/svpuzin/HomeWorkNetology/blob/main/Реляционные%20базы%20данных%20и%20администрирование%20баз%20данных/Индексы/homework.md)
+
+  (0/7) [Репликация и масштабирование](https://github.com/svpuzin/HomeWorkNetology/blob/main/Реляционные%20базы%20данных%20и%20администрирование%20баз%20данных/Репликация%20и%20масштабирование/homework.md)
+
+  (0/3) [Резервное копирование баз данных](https://github.com/svpuzin/HomeWorkNetology/blob/main/Реляционные%20базы%20данных%20и%20администрирование%20баз%20данных/Резервное%20копирование%20баз%20данных/homework.md)
+
+  (0/2) [Базы данных в облаке](https://github.com/svpuzin/HomeWorkNetology/blob/main/Реляционные%20базы%20данных%20и%20администрирование%20баз%20данных/Базы%20данных%20в%20облаке/homework.md)
+
+  -----
 
 
 
