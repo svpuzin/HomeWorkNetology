@@ -121,4 +121,20 @@
 
   -----
 
+## Мониторинг
+
+  (0/2) [Обзор систем IT-мониторинга](https://github.com/svpuzin/HomeWorkNetology/blob/main/Мониторинг/Обзор%20систем%20IT-мониторинга/homework.md)
+
+  (0/3) [Система мониторинга Zabbix](https://github.com/svpuzin/HomeWorkNetology/blob/main/Мониторинг/Система%20мониторинга%20Zabbix/homework.md)
+
+  (0/9) [Система мониторинга Zabbix. Часть 2](https://github.com/svpuzin/HomeWorkNetology/blob/main/Мониторинг/Система%20мониторинга%20Zabbix.%20Часть%202/homework.md)
+
+  (0/5) [Система мониторинга Prometheus](https://github.com/svpuzin/HomeWorkNetology/blob/main/Мониторинг/Система%20мониторинга%20Prometheus/homework.md)
+
+  (0/4) [Система мониторинга Prometheus. Часть 2](https://github.com/svpuzin/HomeWorkNetology/blob/main/Мониторинг/Система%20мониторинга%20Prometheus.%20Часть%202/homework.md)
+
+  -----
+
+
+
 
