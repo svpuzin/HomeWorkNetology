@@ -10,7 +10,7 @@
 6. [Статья «Общее представление о initrd (Initial RAM disk)»](https://www.opennet.ru/base/sys/initrd_intro.txt.html).
 7. [Статья «Модифицируем процесс загрузки с помощью утилиты make-initrd»](https://habr.com/ru/company/aktiv-company/blog/582606/).
 
-
+---
 
 ### Задание 1
 
