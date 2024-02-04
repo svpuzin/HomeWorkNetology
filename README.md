@@ -135,6 +135,18 @@
 
   -----
 
+## Отказоустойчивость
+
+  (0/3) [Disaster Recovery. FHRP и Keepalived](https://github.com/svpuzin/HomeWorkNetology/blob/main/Отказоустойчивость/Disaster%20Recovery.%20FHRP%20и%20Keepalived/homework.md)
+
+  (0/4) [Кластеризация и балансировка нагрузки](https://github.com/svpuzin/HomeWorkNetology/blob/main/Отказоустойчивость/Кластеризация%20и%20балансировка%20нагрузки/homework.md)
+
+  (0/4) [Резервное копирование](https://github.com/svpuzin/HomeWorkNetology/blob/main/Отказоустойчивость/Резервное%20копирование/homework.md)
+
+  (0/2) [Отказоустойчивость в облаке](https://github.com/svpuzin/HomeWorkNetology/blob/main/Отказоустойчивость/Отказоустойчивость%20в%20облаке/homework.md)
+
+  -----
+
 
 
 
