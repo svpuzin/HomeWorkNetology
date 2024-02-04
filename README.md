@@ -87,7 +87,7 @@
 
   -----
 
-## Виртуализвция
+## Виртуализация
 
   (0/5) [Виртуализация и облачные решения: AWS, GCP, Yandex Cloud, OpenStack](https://github.com/svpuzin/HomeWorkNetology/blob/main/Виртуализация/Виртуализация%20и%20облачные%20решения.%20AWS%2C%20GCP%2C%20Яндекс.Облако%2C%20Openstack/homemade.md)
 
