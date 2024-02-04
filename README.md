@@ -147,6 +147,18 @@
 
   -----
 
+## Системы хранения и передачи данных
+
+  (0/4) [Базы данных, их типы](https://github.com/svpuzin/HomeWorkNetology/blob/main/Системы%20хранения%20и%20передачи%20данных/Базы%20данных%2C%20их%20типы/homework.md)
+
+  (0/5) [Кеширование Redis/memcached](https://github.com/svpuzin/HomeWorkNetology/blob/main/Системы%20хранения%20и%20передачи%20данных/Кеширование%20Redis-memcached/homework.md)
+
+  (0/5) [ELK](https://github.com/svpuzin/HomeWorkNetology/blob/main/Системы%20хранения%20и%20передачи%20данных/ELK/homework.md)
+
+  (0/4) [Очереди RabbitMQ](https://github.com/svpuzin/HomeWorkNetology/blob/main/Системы%20хранения%20и%20передачи%20данных/Очереди%20RabbitMQ/homework.md)
+
+  -----
+
 
 
 
