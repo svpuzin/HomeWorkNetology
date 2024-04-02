@@ -26,7 +26,7 @@
 ![s5](https://github.com/svpuzin/HomeWorkNetology/blob/main/Системы%20управления%20версиями/Системы%20контроля%20версий/img/Снимок%20экрана%202024-04-02%20в%2023.49.56.png)
 
 6. Произведите первоначальную настройку Git, указав своё настоящее имя, чтобы нам было проще общаться, и email (`git config --global user.name` и `git config --global user.email johndoe@example.com`). 
-
+![s6](https://github.com/svpuzin/HomeWorkNetology/blob/main/Системы%20управления%20версиями/Системы%20контроля%20версий/img/Снимок%20экрана%202024-04-02%20в%2023.56.08.png)
 
 7. Выполните команду `git status` и запомните результат.
 
