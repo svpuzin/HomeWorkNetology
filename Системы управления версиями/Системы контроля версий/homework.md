@@ -14,7 +14,7 @@
 
 2. Создайте публичный репозиторий, который будете использовать дальше на протяжении всего курса, желательное с названием `devops-netology`.
    Обязательно поставьте галочку `Initialize this repository with a README`. 
-
+![s2](https://github.com/svpuzin/HomeWorkNetology/blob/main/Системы%20управления%20версиями/Системы%20контроля%20версий/img/Снимок%20экрана%202024-04-02%20в%2023.32.51.png)
 
 3. Создайте [авторизационный токен](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token) для клонирования репозитория.
 
