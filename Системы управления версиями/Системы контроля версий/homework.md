@@ -17,10 +17,10 @@
 ![s2](https://github.com/svpuzin/HomeWorkNetology/blob/main/Системы%20управления%20версиями/Системы%20контроля%20версий/img/Снимок%20экрана%202024-04-02%20в%2023.32.51.png)
 
 3. Создайте [авторизационный токен](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token) для клонирования репозитория.
-
+![s3](https://github.com/svpuzin/HomeWorkNetology/blob/main/Системы%20управления%20версиями/Системы%20контроля%20версий/img/Снимок%20экрана%202024-04-02%20в%2023.36.34.png)
 
 4. Склонируйте репозиторий, используя протокол HTTPS (`git clone ...`).
-
+![s4](https://github.com/svpuzin/HomeWorkNetology/blob/main/Системы%20управления%20версиями/Системы%20контроля%20версий/img/Снимок%20экрана%202024-04-02%20в%2023.45.44.png)
 
 5. Перейдите в каталог с клоном репозитория (`cd devops-netology`).
 
