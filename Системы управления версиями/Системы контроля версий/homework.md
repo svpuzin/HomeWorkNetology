@@ -47,7 +47,7 @@
 ![s12](https://github.com/svpuzin/HomeWorkNetology/blob/main/Системы%20управления%20версиями/Системы%20контроля%20версий/img/Снимок%20экрана%202024-04-03%20в%2017.48.04.png)
 
 13. Теперь можно сделать коммит `git commit -m 'First commit'`.
-
+![s13](https://github.com/svpuzin/HomeWorkNetology/blob/main/Системы%20управления%20версиями/Системы%20контроля%20версий/img/Снимок%20экрана%202024-04-03%20в%2017.51.05.png)
 
 14. И ещё раз посмотреть выводы команд `git status`, `git diff` и `git diff --staged`.
 
