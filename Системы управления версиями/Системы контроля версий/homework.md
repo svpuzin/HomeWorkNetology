@@ -59,7 +59,7 @@
 ![s15](https://github.com/svpuzin/HomeWorkNetology/blob/main/Системы%20управления%20версиями/Системы%20контроля%20версий/img/Снимок%20экрана%202024-04-10%20в%2021.01.18.png)
 
 16. Добавьте файл `.gitignore` в следующий коммит (`git add...`).
-
+![s16](https://github.com/svpuzin/HomeWorkNetology/blob/main/Системы%20управления%20версиями/Системы%20контроля%20версий/img/Снимок%20экрана%202024-04-10%20в%2021.07.25.png)
 
 17. На одном из следующих блоков вы будете изучать `Terraform`, давайте сразу создадим соотвествующий каталог `terraform` и внутри этого каталога — файл `.gitignore` по примеру: https://github.com/github/gitignore/blob/master/Terraform.gitignore.  
 
