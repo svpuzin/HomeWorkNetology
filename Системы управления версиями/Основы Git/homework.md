@@ -46,9 +46,8 @@ https://gitlab.com/YOUR_LOGIN/devops-netology. Изучите предлагае
 ![s3](https://github.com/svpuzin/HomeWorkNetology/blob/main/Системы%20управления%20версиями/Основы%20Git/img/Снимок%20экрана%202024-04-14%20в%2022.04.49.png)
 
 
-### Bitbucket* (задание со звёздочкой) 
+### Bitbucket 
 
-Это самостоятельное задание, его выполнение необязательно.
 ____
 
 Теперь необходимо проделать всё то же самое с [Bitbucket](https://bitbucket.org/). 
@@ -93,7 +92,7 @@ origin-https	https://github.com/andrey-borue/devops-netology.git (push)
 
 Выполните push локальной ветки `main` в новые репозитории. 
 
-Подсказка: `git push -u gitlab main`. На этом этапе история коммитов во всех трёх репозиториях должна совпадать. 
+![s4](https://github.com/svpuzin/HomeWorkNetology/blob/main/Системы%20управления%20версиями/Основы%20Git/img/Снимок%20экрана%202024-04-14%20в%2023.44.18.png)
 
 ## Задание 2. Теги
 
