@@ -128,6 +128,8 @@ origin-https	https://github.com/andrey-borue/devops-netology.git (push)
 ![s11](https://github.com/svpuzin/HomeWorkNetology/blob/main/Системы%20управления%20версиями/Основы%20Git/img/Снимок%20экрана%202024-04-16%20в%2022.34.40.png)
 
 6. Посмотрите, как визуально выглядит ваша схема коммитов: https://github.com/YOUR_ACCOUNT/devops-netology/network. 
+![s12](https://github.com/svpuzin/HomeWorkNetology/blob/main/Системы%20управления%20версиями/Основы%20Git/img/Снимок%20экрана%202024-04-16%20в%2022.39.07.png)
+
 7. Теперь измените содержание файла `README.md`, добавив новую строчку.
 8. Отправьте изменения в репозиторий и посмотрите, как изменится схема на странице https://github.com/YOUR_ACCOUNT/devops-netology/network 
 и как изменится вывод команды `git log`.
