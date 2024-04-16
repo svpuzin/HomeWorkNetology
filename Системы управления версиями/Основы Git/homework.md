@@ -121,6 +121,8 @@ origin-https	https://github.com/andrey-borue/devops-netology.git (push)
 ![s9](https://github.com/svpuzin/HomeWorkNetology/blob/main/Системы%20управления%20версиями/Основы%20Git/img/Снимок%20экрана%202024-04-16%20в%2022.23.18.png)
 
 3. Выполните `git checkout` по хешу найденного коммита. 
+![s10](https://github.com/svpuzin/HomeWorkNetology/blob/main/Системы%20управления%20версиями/Основы%20Git/img/Снимок%20экрана%202024-04-16%20в%2022.29.53.png)
+
 4. Создайте новую ветку `fix`, базируясь на этом коммите `git switch -c fix`.
 5. Отправьте новую ветку в репозиторий на GitHub `git push -u origin fix`.
 6. Посмотрите, как визуально выглядит ваша схема коммитов: https://github.com/YOUR_ACCOUNT/devops-netology/network. 
