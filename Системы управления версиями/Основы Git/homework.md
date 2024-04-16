@@ -133,6 +133,9 @@ origin-https	https://github.com/andrey-borue/devops-netology.git (push)
 7. Теперь измените содержание файла `README.md`, добавив новую строчку.
 8. Отправьте изменения в репозиторий и посмотрите, как изменится схема на странице https://github.com/YOUR_ACCOUNT/devops-netology/network 
 и как изменится вывод команды `git log`.
+![s13](https://github.com/svpuzin/HomeWorkNetology/blob/main/Системы%20управления%20версиями/Основы%20Git/img/Снимок%20экрана%202024-04-16%20в%2022.52.10.png)
+![s14](https://github.com/svpuzin/HomeWorkNetology/blob/main/Системы%20управления%20версиями/Основы%20Git/img/Снимок%20экрана%202024-04-16%20в%2022.55.04.png)
+
 
 ## Задание 4. Упрощаем себе жизнь
 
