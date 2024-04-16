@@ -105,7 +105,9 @@ origin-https	https://github.com/andrey-borue/devops-netology.git (push)
 
 3. Перейдите на страницу просмотра тегов в GitHab (и в других репозиториях) и посмотрите, чем отличаются созданные теги. 
     * в GitHub — https://github.com/YOUR_ACCOUNT/devops-netology/releases;
+![s6](https://github.com/svpuzin/HomeWorkNetology/blob/main/Системы%20управления%20версиями/Основы%20Git/img/Снимок%20экрана%202024-04-16%20в%2012.20.27.png)
     * в GitLab — https://gitlab.com/YOUR_ACCOUNT/devops-netology/-/tags;
+![s7](https://github.com/svpuzin/HomeWorkNetology/blob/main/Системы%20управления%20версиями/Основы%20Git/img/Снимок%20экрана%202024-04-16%20в%2012.17.27.png)
     * в Bitbucket — список тегов расположен в выпадающем меню веток на отдельной вкладке. 
 
 ## Задание 3. Ветки 
