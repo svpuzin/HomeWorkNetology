@@ -22,6 +22,8 @@
 ![s4](https://github.com/svpuzin/HomeWorkNetology/blob/main/Системы%20управления%20версиями/Инструменты%20Git/img/Снимок%20экрана%202024-04-18%20в%2022.09.00.png)
 
 * Найдите коммит, в котором была создана функция `func providerSource`, её определение в коде выглядит так: `func providerSource(...)` (вместо троеточия перечислены аргументы).
+![s5](https://github.com/svpuzin/HomeWorkNetology/blob/main/Системы%20управления%20версиями/Инструменты%20Git/img/Снимок%20экрана%202024-04-18%20в%2022.21.08.png)
+
 * Найдите все коммиты, в которых была изменена функция `globalPluginDirs`.
 * Кто автор функции `synchronizedWriters`? 
 
