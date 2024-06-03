@@ -24,10 +24,8 @@
 
 1.6. Переподключитесь к базе данных от имени sys_temp.
 
-Для смены типа аутентификации с sha2 используйте запрос: 
-```sql
-ALTER USER 'sys_test'@'localhost' IDENTIFIED WITH mysql_native_password BY 'password';
-```
+![s6](https://github.com/svpuzin/HomeWorkNetology/blob/main/Реляционные%20базы%20данных%20и%20администрирование%20баз%20данных/Работа%20с%20данными%20(DDL-DML)/img/Снимок%20экрана%202024-06-03%20в%2015.51.12.png)
+
 1.6. По ссылке https://downloads.mysql.com/docs/sakila-db.zip скачайте дамп базы данных.
 
 1.7. Восстановите дамп в базу данных.
