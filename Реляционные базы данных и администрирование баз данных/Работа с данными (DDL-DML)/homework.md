@@ -48,7 +48,7 @@ customer         | customer_id
 
 Ответ
 
-'''
+```
 actor           |   actor_id
 address         |   address_id
 category        |   category_id
@@ -65,7 +65,7 @@ payment         |   payment_id
 rental          |   rental_id
 staff           |   staff_id
 store           |   store_id
-'''
+```
 
 
 ## Дополнительные задания (со звёздочкой*)
