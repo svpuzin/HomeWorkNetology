@@ -31,6 +31,10 @@
 
 *Приведите скриншот systemctl status memcached, где будет видно, что memcached запущен.*
 
+
+### Ответ 2
+
+![s1](https://github.com/svpuzin/HomeWorkNetology/blob/main/Системы%20хранения%20и%20передачи%20данных/Кеширование%20Redis-memcached/img/Снимок%20экрана%202024-09-22%20в%2023.09.10.png)
 ---
 
 ### Задание 3. Удаление по TTL в Memcached
