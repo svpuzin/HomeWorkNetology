@@ -147,6 +147,11 @@
 ### Ответ 6
 
 ![s8](https://github.com/svpuzin/HomeWorkNetology/blob/main/Облачная%20инфраструктура.%20Terraform/Основы%20работы%20с%20Terraform/img/Снимок%20экрана%202025-04-04%20в%2016.15.40.png)
+
+
+Files
+[Облачная инфраструктура. Terraform/Основы работы с Terraform/files](https://github.com/svpuzin/HomeWorkNetology/tree/main/Облачная%20инфраструктура.%20Terraform/Основы%20работы%20с%20Terraform/files)
+
 ------
 
 ## Дополнительное задание (со звёздочкой*)
