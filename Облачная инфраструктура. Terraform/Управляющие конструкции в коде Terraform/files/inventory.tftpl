@@ -13,4 +13,11 @@ ${i.name} ansible_host=${i.network_interface.0.nat_ip_address} fqdn=${i.fqdn}
 %{ endfor ~}
 
 [storageservers]
-${storageservers.name} ansible_host=${storageservers.network_interface.0.nat_ip_address} fqdn=${storageservers.fqdn}
+%{~ for i in storageservers ~}
+
+
+${i.name} ansible_host=${i.network_interface.0.nat_ip_address} fqdn=${i.fqdn}
+%{ endfor ~}
+
+
+###  ${storageservers.name} ansible_host=${storageservers.network_interface.0.nat_ip_address} fqdn=${storageservers.fqdn}
