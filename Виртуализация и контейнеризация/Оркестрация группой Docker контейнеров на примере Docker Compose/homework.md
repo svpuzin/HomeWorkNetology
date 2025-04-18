@@ -30,6 +30,12 @@ Hey, Netology
 - Соберите и отправьте созданный образ в свой dockerhub-репозитории c tag 1.0.0 (ТОЛЬКО ЕСЛИ ЕСТЬ ДОСТУП). 
 - Предоставьте ответ в виде ссылки на https://hub.docker.com/<username_repo>/custom-nginx/general .
 
+## Ответ 1
+
+![s1](https://github.com/svpuzin/HomeWorkNetology/blob/main/Виртуализация%20и%20контейнеризация/Оркестрация%20группой%20Docker%20контейнеров%20на%20примере%20Docker%20Compose/img/Снимок%20экрана%202025-04-16%20в%2019.38.49.png)
+
+
+
 ## Задача 2
 1. Запустите ваш образ custom-nginx:1.0.0 командой docker run в соответвии с требованиями:
 - имя контейнера "ФИО-custom-nginx-t2"
