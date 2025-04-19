@@ -126,7 +126,7 @@ Hey, Netology
 
 ![s16](https://github.com/svpuzin/HomeWorkNetology/blob/main/Виртуализация%20и%20контейнеризация/Оркестрация%20группой%20Docker%20контейнеров%20на%20примере%20Docker%20Compose/img/Снимок%20экрана%202025-04-19%20в%2015.53.06.png)
 
-
+![s17](https://github.com/svpuzin/HomeWorkNetology/blob/main/Виртуализация%20и%20контейнеризация/Оркестрация%20группой%20Docker%20контейнеров%20на%20примере%20Docker%20Compose/img/Снимок%20экрана%202025-04-19%20в%2015.59.55.png)
 
 
 ## Задача 5
