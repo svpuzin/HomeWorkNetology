@@ -188,6 +188,16 @@ services:
 
 ![s20](https://github.com/svpuzin/HomeWorkNetology/blob/main/Виртуализация%20и%20контейнеризация/Оркестрация%20группой%20Docker%20контейнеров%20на%20примере%20Docker%20Compose/img/Снимок%20экрана%202025-04-19%20в%2016.29.17.png)
 
+![s21](https://github.com/svpuzin/HomeWorkNetology/blob/main/Виртуализация%20и%20контейнеризация/Оркестрация%20группой%20Docker%20контейнеров%20на%20примере%20Docker%20Compose/img/Снимок%20экрана%202025-04-19%20в%2016.36.30.png)
+
+![s22](https://github.com/svpuzin/HomeWorkNetology/blob/main/Виртуализация%20и%20контейнеризация/Оркестрация%20группой%20Docker%20контейнеров%20на%20примере%20Docker%20Compose/img/Снимок%20экрана%202025-04-19%20в%2016.45.31.png)
+
+![s23](https://github.com/svpuzin/HomeWorkNetology/blob/main/Виртуализация%20и%20контейнеризация/Оркестрация%20группой%20Docker%20контейнеров%20на%20примере%20Docker%20Compose/img/Снимок%20экрана%202025-04-19%20в%2016.51.13.png)
+
+Внимание говорит о том  что есть контейнер task5-portainer-1, который больше не указан в docker-compose.yaml, но был создан ранее, когда этот файл содержал сервис portainer.
+Docker считает его "осиротевшим" — orphan.
+
+![s24](https://github.com/svpuzin/HomeWorkNetology/blob/main/Виртуализация%20и%20контейнеризация/Оркестрация%20группой%20Docker%20контейнеров%20на%20примере%20Docker%20Compose/img/Снимок%20экрана%202025-04-19%20в%2016.58.37.png)
 
 
 ---
