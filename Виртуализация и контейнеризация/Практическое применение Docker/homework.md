@@ -48,6 +48,7 @@ See 'snap info docker' for additional versions.
 
 ![s2](https://github.com/svpuzin/HomeWorkNetology/blob/main/Виртуализация%20и%20контейнеризация/Практическое%20применение%20Docker/img/Снимок%20экрана%202025-04-21%20в%2023.52.38.png)
 
+Репозиторий https://github.com/svpuzin/shvirtd-example-python
 
 ---
 
@@ -82,6 +83,7 @@ See 'snap info docker' for additional versions.
 
 ![s5](https://github.com/svpuzin/HomeWorkNetology/blob/main/Виртуализация%20и%20контейнеризация/Практическое%20применение%20Docker/img/Снимок%20экрана%202025-04-22%20в%2001.00.18.png)
 
+Репозиторий https://github.com/svpuzin/shvirtd-example-python
 
 ## Задача 4
 1. Запустите в Yandex Cloud ВМ (вам хватит 2 Гб Ram).
