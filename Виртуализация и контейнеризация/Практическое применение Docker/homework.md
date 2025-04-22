@@ -95,6 +95,11 @@ See 'snap info docker' for additional versions.
 
 ![s6](https://github.com/svpuzin/HomeWorkNetology/blob/main/Виртуализация%20и%20контейнеризация/Практическое%20применение%20Docker/img/Снимок%20экрана%202025-04-22%20в%2011.16.31.png)
 
+![s7](https://github.com/svpuzin/HomeWorkNetology/blob/main/Виртуализация%20и%20контейнеризация/Практическое%20применение%20Docker/img/Снимок%20экрана%202025-04-22%20в%2012.10.03.png)
+
+![s8](https://github.com/svpuzin/HomeWorkNetology/blob/main/Виртуализация%20и%20контейнеризация/Практическое%20применение%20Docker/img/Снимок%20экрана%202025-04-22%20в%2012.10.46.png)
+
+Ссылка на репозиторий https://github.com/svpuzin/shvirtd-example-python
 
 ## Задача 5 (*)
 1. Напишите и задеплойте на вашу облачную ВМ bash скрипт, который произведет резервное копирование БД mysql в директорию "/opt/backup" с помощью запуска в сети "backend" контейнера из образа ```schnitzler/mysqldump``` при помощи ```docker run ...``` команды. Подсказка: "документация образа."
