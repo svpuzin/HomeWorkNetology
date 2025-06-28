@@ -25,9 +25,9 @@
 
 
 5. Добавьте факты в `group_vars` каждой из групп хостов так, чтобы для `some_fact` получились значения: для `deb` — `deb default fact`, для `el` — `el default fact`.
-
-
 6.  Повторите запуск playbook на окружении `prod.yml`. Убедитесь, что выдаются корректные значения для всех хостов.
+
+![s4](https://github.com/svpuzin/HomeWorkNetology/blob/main/17%20-%20Система%20управления%20конфигурациями/Введение%20в%20Ansible/img/Снимок%20экрана%202025-06-28%20в%2013.30.38.png)
 
 
 7. При помощи `ansible-vault` зашифруйте факты в `group_vars/deb` и `group_vars/el` с паролем `netology`.
