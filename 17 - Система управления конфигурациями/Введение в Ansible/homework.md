@@ -32,6 +32,8 @@
 
 7. При помощи `ansible-vault` зашифруйте факты в `group_vars/deb` и `group_vars/el` с паролем `netology`.
 
+![s5](https://github.com/svpuzin/HomeWorkNetology/blob/main/17%20-%20Система%20управления%20конфигурациями/Введение%20в%20Ansible/img/Снимок%20экрана%202025-06-30%20в%2022.27.01.png)
+
 
 8. Запустите playbook на окружении `prod.yml`. При запуске `ansible` должен запросить у вас пароль. Убедитесь в работоспособности.
 
