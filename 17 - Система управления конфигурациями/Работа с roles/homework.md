@@ -26,6 +26,8 @@
        name: clickhouse 
    ```
 
+![s1](https://github.com/svpuzin/HomeWorkNetology/blob/main/17%20-%20Система%20управления%20конфигурациями/Работа%20с%20roles/img/Снимок%20экрана%202025-07-11%20в%2016.43.47.png)
+
 2. При помощи `ansible-galaxy` скачайте себе эту роль.
 3. Создайте новый каталог с ролью при помощи `ansible-galaxy role init vector-role`.
 4. На основе tasks из старого playbook заполните новую role. Разнесите переменные между `vars` и `default`. 
