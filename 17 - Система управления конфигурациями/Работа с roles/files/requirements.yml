@@ -1,0 +1,7 @@
+---
+- src: git@github.com:svpuzin/ansible-clickhouse.git
+  scm: git
+  name: clickhouse 
+- src: git@github.com:svpuzin/ansible-vector.git
+  scm: git
+  name: vector

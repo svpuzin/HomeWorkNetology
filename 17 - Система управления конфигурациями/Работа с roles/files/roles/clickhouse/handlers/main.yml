@@ -1,0 +1,6 @@
+---
+- name: Start clickhouse process inside container
+  community.docker.docker_container_exec:
+    container: centos
+    command: /usr/bin/clickhouse-server --config-file=/etc/clickhouse-server/config.xml
+    detach: true

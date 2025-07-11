@@ -1,0 +1,6 @@
+---
+- name: Start vector service inside container
+  community.docker.docker_container_exec:
+    container: vector
+    command: /usr/bin/vector --config /etc/vector/vector.yml
+    detach: true
