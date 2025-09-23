@@ -27,6 +27,11 @@
 2. Использовать image - gcr.io/kubernetes-e2e-test-images/echoserver:2.2.
 3. Подключиться локально к Pod с помощью `kubectl port-forward` и вывести значение (curl или в браузере).
 
+
+### Ответ
+
+![s1](https://github.com/svpuzin/HomeWorkNetology/blob/main/21%20-%20Kubernetes%3A%20основы%2C%20применение%20и%20администрирование/Базовые%20объекты%20K8S/img/Снимок%20экрана%202025-09-23%20в%2023.24.45.png)
+
 ------
 
 ### Задание 2. Создать Service и подключить его к Pod
