@@ -1,0 +1,33 @@
+apiVersion: apps/v1
+kind: DaemonSet
+metadata:
+  name: logs-read
+spec:
+  selector:
+    matchLabels:
+      app: logs-read
+  template:
+    metadata:
+      labels:
+        app: logs-read
+    spec:
+      containers:
+        - name: multitool
+          image: wbitt/network-multitool:latest
+          command:
+            - /bin/sh
+            - -c
+            - >
+              while true;
+              do cat /logs/syslog;
+              sleep 20;
+              done;
+          volumeMounts:
+            - name: logs-volume
+              mountPath: /logs
+              readOnly: true
+      volumes:
+        - name: logs-volume
+          hostPath:
+            path: /var/log
+            type: Directory
