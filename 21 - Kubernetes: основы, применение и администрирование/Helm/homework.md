@@ -30,7 +30,7 @@
 
 ### Ответ 1
 
-![s1]()
+![s1](https://github.com/svpuzin/HomeWorkNetology/blob/main/21%20-%20Kubernetes%3A%20основы%2C%20применение%20и%20администрирование/Helm/img/Снимок%20экрана%202025-10-24%20в%2023.37.34.png)
 
 ------
 ### Задание 2. Запустить две версии в разных неймспейсах
@@ -42,11 +42,11 @@
 
 ### Ответ 2
 
-![s2]()
+![s2](https://github.com/svpuzin/HomeWorkNetology/blob/main/21%20-%20Kubernetes%3A%20основы%2C%20применение%20и%20администрирование/Helm/img/Снимок%20экрана%202025-10-24%20в%2023.56.20.png)
 
 
 
-Все файлы лежат тут 
+Все файлы лежат тут https://github.com/svpuzin/HomeWorkNetology/tree/main/21%20-%20Kubernetes%3A%20основы%2C%20применение%20и%20администрирование/Helm/files
 
 
 
