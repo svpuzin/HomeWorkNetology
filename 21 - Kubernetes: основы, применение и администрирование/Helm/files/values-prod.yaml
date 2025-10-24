@@ -1,0 +1,5 @@
+nginx:
+  image: nginx:1.22
+multitool:
+  image: wbitt/network-multitool:latest
+nodePort: 31220

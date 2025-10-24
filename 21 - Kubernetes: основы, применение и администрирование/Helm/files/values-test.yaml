@@ -1,0 +1,5 @@
+nginx:
+  image: nginx:latest
+multitool:
+  image: wbitt/network-multitool:latest
+nodePort: 31000

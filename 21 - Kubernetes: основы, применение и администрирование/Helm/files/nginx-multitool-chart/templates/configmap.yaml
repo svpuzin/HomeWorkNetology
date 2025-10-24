@@ -1,0 +1,14 @@
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: {{ .Release.Name }}-nginx-config
+data:
+  index.html: |
+    <html>
+    <head>
+      <title>Welcome to Nginx!!!!</title>
+    </head>
+    <body>
+      <h1>TEST test TEST</h1>
+    </body>
+    </html>

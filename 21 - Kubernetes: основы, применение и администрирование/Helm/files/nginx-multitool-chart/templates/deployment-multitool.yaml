@@ -1,0 +1,22 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: {{ .Release.Name }}-multitool
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: {{ .Release.Name }}-multitool
+  template:
+    metadata:
+      labels:
+        app: {{ .Release.Name }}-multitool
+    spec:
+      containers:
+      - name: multitool
+        image: {{ .Values.multitool.image }}
+        ports:
+          - containerPort: 8080
+        env:
+          - name: HTTP_PORT
+            value: "8080"
