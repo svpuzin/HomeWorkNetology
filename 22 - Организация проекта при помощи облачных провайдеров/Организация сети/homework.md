@@ -29,6 +29,17 @@ Resource Terraform для Yandex Cloud:
 - [Route table](https://registry.terraform.io/providers/yandex-cloud/yandex/latest/docs/resources/vpc_route_table).
 - [Compute Instance](https://registry.terraform.io/providers/yandex-cloud/yandex/latest/docs/resources/compute_instance).
 
+
+
+### Ответ
+
+![s1](https://github.com/svpuzin/HomeWorkNetology/blob/main/22%20-%20Организация%20проекта%20при%20помощи%20облачных%20провайдеров/Организация%20сети/img/Снимок%20экрана%202025-11-07%20в%2013.39.34.png)
+![s2](https://github.com/svpuzin/HomeWorkNetology/blob/main/22%20-%20Организация%20проекта%20при%20помощи%20облачных%20провайдеров/Организация%20сети/img/Снимок%20экрана%202025-11-07%20в%2013.41.10.png)
+![s3](https://github.com/svpuzin/HomeWorkNetology/blob/main/22%20-%20Организация%20проекта%20при%20помощи%20облачных%20провайдеров/Организация%20сети/img/Снимок%20экрана%202025-11-07%20в%2014.00.22.png)
+
+Файлы лежат тут https://github.com/svpuzin/HomeWorkNetology/tree/main/22%20-%20Организация%20проекта%20при%20помощи%20облачных%20провайдеров/Организация%20сети/files
+
+
 ---
 ### Задание 2. AWS* (задание со звёздочкой)
 
